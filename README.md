@@ -1,0 +1,1 @@
+This project analyzes Super Store sales data using Power BI to provide insights into sales performance, profitability, and customer behavior. The interactive dashboard helps stakeholders monitor business KPIs and make data-driven decisions.
